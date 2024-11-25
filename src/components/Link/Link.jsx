@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React from 'react';
 
 const Link = ({route}) => {
@@ -7,5 +8,7 @@ const Link = ({route}) => {
  );
 };
 
-
+Link.propTypes={
+ route:PropTypes.object
+}
 export default Link;
