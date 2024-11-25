@@ -7,9 +7,9 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
-      <div>
+      {/* <div>
         <h1 className='text-center'>hi picchi</h1>
-      </div>
+      </div> */}
     </>
   )
 }
