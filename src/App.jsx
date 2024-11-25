@@ -1,15 +1,20 @@
 import { useState } from 'react'
-import './App.css'
 import Navbar from './components/Navbar/Navbar'
+import PriceOptions from './components/PriceOption/PriceOptions'
 
 function App() {
 
   return (
     <>
-    <Navbar></Navbar>
-      {/* <div>
+      <Navbar></Navbar>
+      <div className='max-w-screen-xl mx-auto'>
+        
+        {/* <div>
         <h1 className='text-center'>hi picchi</h1>
       </div> */}
+        <PriceOptions></PriceOptions>
+      </div>
+
     </>
   )
 }

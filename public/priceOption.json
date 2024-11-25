@@ -1,0 +1,167 @@
+[
+ {
+   "id": 1,
+   "name": "Basic Monthly Plan",
+   "price": 30,
+   "duration": "Monthly",
+   "features": [
+     "Access to gym equipment",
+     "Locker facilities"
+   ]
+ },
+ {
+   "id": 2,
+   "name": "Student Monthly Plan",
+   "price": 25,
+   "duration": "Monthly",
+   "features": [
+     "Access to gym equipment",
+     "Locker facilities",
+     "Discounted group classes"
+   ]
+ },
+ {
+   "id": 3,
+   "name": "Standard Quarterly Plan",
+   "price": 80,
+   "duration": "3 Months",
+   "features": [
+     "Access to gym equipment",
+     "Locker facilities",
+     "5 group fitness classes per month"
+   ]
+ },
+ {
+   "id": 4,
+   "name": "Couples Monthly Plan",
+   "price": 50,
+   "duration": "Monthly",
+   "features": [
+     "Access to gym equipment for 2",
+     "Locker facilities",
+     "2 group classes per person"
+   ]
+ },
+ {
+   "id": 5,
+   "name": "Family Monthly Plan",
+   "price": 100,
+   "duration": "Monthly",
+   "features": [
+     "Access for up to 4 family members",
+     "Locker facilities",
+     "Family yoga sessions"
+   ]
+ },
+ {
+   "id": 6,
+   "name": "Premium Half-Yearly Plan",
+   "price": 150,
+   "duration": "6 Months",
+   "features": [
+     "Unlimited gym access",
+     "Locker facilities",
+     "2 personal training sessions",
+     "Access to sauna"
+   ]
+ },
+ {
+   "id": 7,
+   "name": "Student Annual Plan",
+   "price": 200,
+   "duration": "12 Months",
+   "features": [
+     "Access to gym equipment",
+     "Locker facilities",
+     "Discounted personal training"
+   ]
+ },
+ {
+   "id": 8,
+   "name": "Premium Annual Plan",
+   "price": 300,
+   "duration": "12 Months",
+   "features": [
+     "Unlimited gym access",
+     "Priority locker facilities",
+     "Monthly personal training sessions",
+     "Access to premium facilities"
+   ]
+ },
+ {
+   "id": 9,
+   "name": "Corporate Plan",
+   "price": 500,
+   "duration": "12 Months",
+   "features": [
+     "Access for up to 10 employees",
+     "Priority locker facilities",
+     "Team fitness sessions",
+     "Wellness workshops"
+   ]
+ },
+ {
+   "id": 10,
+   "name": "Pay-As-You-Go Plan",
+   "price": 10,
+   "duration": "Per Visit",
+   "features": [
+     "Single-day access to gym equipment",
+     "Locker facilities"
+   ]
+ },
+ {
+   "id": 11,
+   "name": "Weekend Warrior Plan",
+   "price": 20,
+   "duration": "Monthly (Weekends Only)",
+   "features": [
+     "Access to gym equipment on weekends",
+     "Locker facilities",
+     "1 group class per weekend"
+   ]
+ },
+ {
+   "id": 12,
+   "name": "Express Monthly Plan",
+   "price": 15,
+   "duration": "Monthly",
+   "features": [
+     "Gym access during off-peak hours",
+     "Locker facilities"
+   ]
+ },
+ {
+   "id": 13,
+   "name": "Senior Citizen Plan",
+   "price": 20,
+   "duration": "Monthly",
+   "features": [
+     "Access to gym equipment",
+     "Locker facilities",
+     "Low-impact fitness classes"
+   ]
+ },
+ {
+   "id": 14,
+   "name": "Advanced Training Plan",
+   "price": 120,
+   "duration": "3 Months",
+   "features": [
+     "Access to gym equipment",
+     "5 personal training sessions",
+     "Access to advanced workout facilities"
+   ]
+ },
+ {
+   "id": 15,
+   "name": "Yoga & Fitness Combo Plan",
+   "price": 70,
+   "duration": "Monthly",
+   "features": [
+     "Unlimited yoga classes",
+     "Access to gym equipment",
+     "Locker facilities"
+   ]
+ }
+]
