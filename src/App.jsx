@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import PriceOptions from './components/PriceOption/PriceOptions'
+import Chart from './components/Chart/Chart'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <h1 className='text-center'>hi picchi</h1>
       </div> */}
         <PriceOptions></PriceOptions>
+        <Chart></Chart>
       </div>
 
     </>
