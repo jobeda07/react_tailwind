@@ -1,5 +1,5 @@
 import React from 'react';
-import { LineChart,Line, XAxis, YAxis, BarChart, Bar} from 'recharts';
+import { LineChart,Line, XAxis, YAxis, BarChart, Bar, Tooltip} from 'recharts';
 
 const Chart = () => {
  const mathChart=[
@@ -29,6 +29,7 @@ const Chart = () => {
    <XAxis dataKey="name"></XAxis>
    <YAxis></YAxis>
    <Bar dataKey="math_marks" fill="#8884d8" barSize={30}></Bar>
+   <Tooltip></Tooltip>
    </BarChart>
   </div>
  );
